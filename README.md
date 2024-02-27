@@ -1,2 +1,2 @@
-# prep-course-henry
-este es un repositorio de prueba
+Sebastian Zuccala 
+este proyecto es una prueba de como crear un repositorio
